@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sooraj-Fundo/static/css/main.a9f54239.chunk.css",
+    "main.js": "/Sooraj-Fundo/static/js/main.536553d4.chunk.js",
+    "main.js.map": "/Sooraj-Fundo/static/js/main.536553d4.chunk.js.map",
+    "runtime-main.js": "/Sooraj-Fundo/static/js/runtime-main.6277a8c8.js",
+    "runtime-main.js.map": "/Sooraj-Fundo/static/js/runtime-main.6277a8c8.js.map",
+    "static/css/2.455652b6.chunk.css": "/Sooraj-Fundo/static/css/2.455652b6.chunk.css",
+    "static/js/2.c6ced65c.chunk.js": "/Sooraj-Fundo/static/js/2.c6ced65c.chunk.js",
+    "static/js/2.c6ced65c.chunk.js.map": "/Sooraj-Fundo/static/js/2.c6ced65c.chunk.js.map",
+    "static/js/3.11bc0e6b.chunk.js": "/Sooraj-Fundo/static/js/3.11bc0e6b.chunk.js",
+    "static/js/3.11bc0e6b.chunk.js.map": "/Sooraj-Fundo/static/js/3.11bc0e6b.chunk.js.map",
+    "index.html": "/Sooraj-Fundo/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/Sooraj-Fundo/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.a9f54239.chunk.css.map": "/Sooraj-Fundo/static/css/main.a9f54239.chunk.css.map",
+    "static/js/2.c6ced65c.chunk.js.LICENSE.txt": "/Sooraj-Fundo/static/js/2.c6ced65c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6277a8c8.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.c6ced65c.chunk.js",
+    "static/css/main.a9f54239.chunk.css",
+    "static/js/main.536553d4.chunk.js"
+  ]
+}
